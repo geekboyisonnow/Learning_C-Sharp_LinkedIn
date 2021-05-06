@@ -29,10 +29,11 @@ namespace Operations
             }
 
             // TODO: String Concatenation         
-
+            outstr = String.Concat(strs);
+            Console.WriteLine(outstr);
 
             // TODO: Joining strings together with Join
-
+            outstr = String.Join('.', strs);
 
             // TODO: String Comparison
             // Compare will perform an ordinal comparison and return:

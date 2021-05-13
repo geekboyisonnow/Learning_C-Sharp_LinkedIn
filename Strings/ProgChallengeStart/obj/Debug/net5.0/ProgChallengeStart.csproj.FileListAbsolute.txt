@@ -3,3 +3,14 @@ C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strin
 C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.AssemblyInfoInputs.cache
 C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.AssemblyInfo.cs
 C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.csproj.CoreCompileInputs.cache
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.exe
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.deps.json
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.runtimeconfig.json
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.runtimeconfig.dev.json
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ref\ProgChallengeStart.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.pdb
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ref\ProgChallengeStart.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.pdb
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.genruntimeconfig.cache

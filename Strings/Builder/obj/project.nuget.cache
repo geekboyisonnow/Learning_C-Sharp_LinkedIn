@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RFOgxXVDvhWMZi9lYHnbII31EebjVR49piHTEGXfzobPg/N6JteZ49o7GJMyLxfbtuoXoD4OhALMyBAJlGiioA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kenne\\source\\repos\\Ex_Files_Learning_C_Sharp\\Exercise Files\\Start\\Strings\\Builder\\Builder.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\kenne\\source\\repos\\Ex_Files_Learning_C_Sharp\\Exercise Files\\Start\\Strings\\Builder\\obj\\project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
+}

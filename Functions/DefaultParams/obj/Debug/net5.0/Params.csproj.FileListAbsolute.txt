@@ -1,0 +1,16 @@
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\DefaultParams\bin\Debug\net5.0\Params.exe
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\DefaultParams\bin\Debug\net5.0\Params.deps.json
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\DefaultParams\bin\Debug\net5.0\Params.runtimeconfig.json
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\DefaultParams\bin\Debug\net5.0\Params.runtimeconfig.dev.json
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\DefaultParams\bin\Debug\net5.0\Params.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\DefaultParams\bin\Debug\net5.0\ref\Params.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\DefaultParams\bin\Debug\net5.0\Params.pdb
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\DefaultParams\obj\Debug\net5.0\Params.csprojAssemblyReference.cache
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\DefaultParams\obj\Debug\net5.0\Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\DefaultParams\obj\Debug\net5.0\Params.AssemblyInfoInputs.cache
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\DefaultParams\obj\Debug\net5.0\Params.AssemblyInfo.cs
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\DefaultParams\obj\Debug\net5.0\Params.csproj.CoreCompileInputs.cache
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\DefaultParams\obj\Debug\net5.0\Params.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\DefaultParams\obj\Debug\net5.0\ref\Params.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\DefaultParams\obj\Debug\net5.0\Params.pdb
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\DefaultParams\obj\Debug\net5.0\Params.genruntimeconfig.cache

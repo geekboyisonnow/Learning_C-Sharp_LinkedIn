@@ -1,0 +1,16 @@
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.csprojAssemblyReference.cache
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.AssemblyInfoInputs.cache
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.AssemblyInfo.cs
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.csproj.CoreCompileInputs.cache
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOut.exe
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOut.deps.json
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOut.runtimeconfig.json
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOut.runtimeconfig.dev.json
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOut.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\bin\Debug\net5.0\ref\RefAndOut.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOut.pdb
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net5.0\ref\RefAndOut.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.pdb
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\bin\Debug\net5.0\Basics.exe
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\bin\Debug\net5.0\Basics.deps.json
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\bin\Debug\net5.0\Basics.runtimeconfig.json
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\bin\Debug\net5.0\Basics.runtimeconfig.dev.json
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\bin\Debug\net5.0\Basics.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\bin\Debug\net5.0\ref\Basics.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\bin\Debug\net5.0\Basics.pdb
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\obj\Debug\net5.0\Basics.csprojAssemblyReference.cache
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\obj\Debug\net5.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\obj\Debug\net5.0\Basics.AssemblyInfoInputs.cache
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\obj\Debug\net5.0\Basics.AssemblyInfo.cs
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\obj\Debug\net5.0\Basics.csproj.CoreCompileInputs.cache
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\obj\Debug\net5.0\Basics.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\obj\Debug\net5.0\ref\Basics.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\obj\Debug\net5.0\Basics.pdb
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\obj\Debug\net5.0\Basics.genruntimeconfig.cache

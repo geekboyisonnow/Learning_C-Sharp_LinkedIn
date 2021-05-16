@@ -31,6 +31,9 @@ namespace RefAndOutParams {
             TestFunc1(val1);
             Console.WriteLine($"{val1}");
 
+            // int a, b;
+            // PlusTimes(val1, val2, out a, out b);
+            // Console.WriteLine($"{a}, {b}");
             // TODO: Using the "ref" keyword, arguments can be passed by reference
             // which allows the function to modify them
             TestFunc2(ref val1);

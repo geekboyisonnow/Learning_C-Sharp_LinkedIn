@@ -1,0 +1,16 @@
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Inheritance\bin\Debug\net5.0\Inheritance.exe
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Inheritance\bin\Debug\net5.0\Inheritance.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Inheritance\obj\Debug\net5.0\Inheritance.csprojAssemblyReference.cache
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Inheritance\obj\Debug\net5.0\Inheritance.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache

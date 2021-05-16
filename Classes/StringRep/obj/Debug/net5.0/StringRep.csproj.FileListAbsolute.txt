@@ -1,0 +1,16 @@
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\bin\Debug\net5.0\StringRep.exe
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\bin\Debug\net5.0\StringRep.deps.json
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\bin\Debug\net5.0\StringRep.runtimeconfig.json
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\bin\Debug\net5.0\StringRep.runtimeconfig.dev.json
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\bin\Debug\net5.0\StringRep.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\bin\Debug\net5.0\ref\StringRep.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\bin\Debug\net5.0\StringRep.pdb
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.csprojAssemblyReference.cache
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.AssemblyInfoInputs.cache
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.AssemblyInfo.cs
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.csproj.CoreCompileInputs.cache
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net5.0\ref\StringRep.dll
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.pdb
+C:\Users\kenne\source\repos\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\StringRep\obj\Debug\net5.0\StringRep.genruntimeconfig.cache

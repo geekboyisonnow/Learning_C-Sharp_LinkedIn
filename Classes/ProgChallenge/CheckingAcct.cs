@@ -2,22 +2,22 @@ using System;
 
 namespace ProgChallenge
 {
-    public class CheckingAcct : AccountOwner
+    public class CheckingAcct : BankAccount
     {
-     // TODO: Declare "CheckingAcct" as a subclass of AccountOwner
-        
-            private decimal _initialbalance;
+        private const decimal OVERDRAW_CHARGE = 35.0M;
 
-            // TODO: use the base() keyword to initialize the base class
-            public CheckingAcct(string name, string firstname, string lastname, decimal initialbalance) 
-            : base(name, firstname, lastname)
-            {
-                _initialbalance = initialbalance;
+        // TODO: Declare "CheckingAcct" as a subclass of BankAccount
+        // use the base() keyword to initialize the base class
+        public CheckingAcct(string firstname, string lastname, decimal initialbalance) 
+        : base(firstname, lastname, initialbalance) {
+        }
+
+        public override void Withdraw(decimal amount) {
+            // If the account gets OVERDRAWN add extra charge
+            if (amount > Balance) {
+                amount += OVERDRAW_CHARGE;
             }
-
-            public decimal InitialBalance {
-                get => _initialbalance;
-                set => _initialbalance = value;
-            }     
+            base.Withdraw(amount);
+        } 
     }
 }
